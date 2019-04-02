@@ -1,0 +1,249 @@
+Restaurant,Burrito_Name,Type,Full_Address,URL,Number_of_Reviews,Average_of_Yelp,Average_of_Google,Average_of_Cost,Average_of_Hunger,Average_of_Tortilla,Average_of_Temp,Average_of_Meat,Average_of_Fillings,Average_of_Meat_filling,Average_of_Uniformity,Average_of_Salsa,Average_of_Synergy,Average_of_Wrap,Average_of_overall,Lat,Lng
+Albertacos,California ,California,"500 W San Marcos Blvd # 103, San Marcos CA",https://www.yelp.com/biz/albertacos-san-marcos,1,3.5,3.9,6.49,3,3,5,3,3.5,4,4,4,4,4,3.8,33.1395266,-117.1721626
+Albertacos,Carne asada,Carne Asada / Beef,"500 W San Marcos Blvd # 103, San Marcos CA",https://www.yelp.com/biz/albertacos-san-marcos,1,3.5,3.9,5.45,3.5,2,3.5,2.5,2.5,2,4,3.5,2.5,5,3,33.1395266,-117.1721626
+Alberto's,Carne asada,Carne Asada / Beef,"623 N Escondido Blvd, Escondido CA",(blank),1,,,4.85,1.5,3,2,2.5,3,4.5,4,3,3,5,3,33.1265153,-117.0887398
+Burrito Factory,Steak everything ,Carne Asada / Beef,"2025 Guadalupe St, Austin CA",https://www.yelp.com/biz/burrito-factory-austin,1,4.5,4.8,6.59,4,4,5,4,3.5,4.5,5,2.5,4.5,4,4.2,30.2833507,-97.7415642
+Burros and Fries,California,California,"4705 Clairemont Dr, Clairemont CA",http://www.burrosandfries.com/,2,3.5,4.1,8.12,3.75,2.5,4.25,4.75,3.5,2,2.75,3,4,1.5,3.55,32.8297288,-117.2050566
+Burros and Fries,Carne asada,Carne Asada / Beef,"4705 Clairemont Dr, Clairemont CA",http://www.burrosandfries.com/,1,3.5,4.1,7.19,1.5,2,3,3,2,2.5,2.5,,2,3,2.6,32.8297288,-117.2050566
+Burros and Fries,Shrimp california,Seafood,"4705 Clairemont Dr, Clairemont CA",http://www.burrosandfries.com/,1,3.5,4.1,6.99,4,2.5,3,3,2.5,3,3.5,,2.5,3,3,32.8297288,-117.2050566
+Caliente Mexican Food,California,California,"11815 Sorrento Valley Rd, Sorrento Valley CA",https://www.yelp.com/biz/caliente-mexican-food-san-diego,1,3.5,4.4,6.25,3.5,3,3.5,3.5,4,2,3.5,1,4,4,3.9,32.9161974,-117.2367235
+Caliente Mexican Food,carne asada ,Carne Asada / Beef,"11815 Sorrento Valley Rd, Sorrento Valley CA",https://www.yelp.com/biz/caliente-mexican-food-san-diego,2,3.5,4.4,7.875,2.75,2.5,2,2.125,2.75,3.5,2.5,1,2.5,4,2.25,32.9161974,-117.2367235
+Caliente Mexican Food,fried fish,Seafood,"11815 Sorrento Valley Rd, Sorrento Valley CA",https://www.yelp.com/biz/caliente-mexican-food-san-diego,1,3.5,4.4,6.95,2,3,4,4,3,4,4,1,2,1,3,32.9161974,-117.2367235
+California Burrito Company,California,California,"6912 Miramar Rd, Miramar CA",https://www.yelp.com/biz/california-burrito-company-san-diego-2,2,3.5,4.4,6.87,3.5,3.5,2.5,3,3,3.75,3.25,3.5,4,4.25,3.475,32.8788215,-117.1668915
+California Burrito Company,California ,California,"6912 Miramar Rd, Miramar CA",https://www.yelp.com/biz/california-burrito-company-san-diego-2,1,3.5,4.4,5.99,3,4,4,3,3.5,4,4.5,4,4,4.5,4,32.8788215,-117.1668915
+California Burrito Company,Dave's California,California,"6912 Miramar Rd, Miramar CA",https://www.yelp.com/biz/california-burrito-company-san-diego-2,1,3.5,4.4,6.99,3,3,1,1.5,2.5,4,4,3,4.5,5,2,32.8788215,-117.1668915
+California Burrito Company,Fajitas ,Specialty,"6912 Miramar Rd, Miramar CA",https://www.yelp.com/biz/california-burrito-company-san-diego-2,1,3.5,4.4,8.49,2.5,4,4,4.5,4,5,4.5,3.5,4,2,4.1,32.8788215,-117.1668915
+California Burritos,California (only cheese),California,"7754 Starling Dr, Linda Vista CA",https://www.yelp.com/biz/california-burritos-san-diego,1,4.5,4.4,5.5,2.5,1.5,2.5,3.5,3,4,1.5,2.5,3.5,4.5,3.5,32.793464,-117.1560493
+California Burritos,California Everything,California,"7754 Starling Dr, Linda Vista CA",https://www.yelp.com/biz/california-burritos-san-diego,17,4.5,4.4,6.655294118,2.926470588,3.058823529,3.8,3.455882353,3.265625,3.529411765,2.8625,2.911764706,3.193333333,4.0625,3.331372353,32.793464,-117.1560493
+California Burritos,California everything mini,California,"7754 Starling Dr, Linda Vista CA",https://www.yelp.com/biz/california-burritos-san-diego,1,4.5,4.4,5.99,3,4,3.5,3.5,4,3.5,3.5,2,3.5,0.5,3.9,32.793464,-117.1560493
+California Burritos,Carne asada everything,Carne Asada / Beef,"7754 Starling Dr, Linda Vista CA",https://www.yelp.com/biz/california-burritos-san-diego,4,4.5,4.4,7.145,3.875,3.5,3,3.5,3.5,3.75,3.5,3.375,3.25,3.375,3.6625,32.793464,-117.1560493
+California Burritos,Carnitas,Carnitas / Pork,"7754 Starling Dr, Linda Vista CA",https://www.yelp.com/biz/california-burritos-san-diego,1,4.5,4.4,6.49,4.5,3,5,4,4,5,4,2.5,4.5,4,4,32.793464,-117.1560493
+California Burritos,Chile relleno and carnitas,Carnitas / Pork,"7754 Starling Dr, Linda Vista CA",https://www.yelp.com/biz/california-burritos-san-diego,1,4.5,4.4,8.75,3.5,1.5,2,3,3.5,4,1,3.5,4.5,4,4,32.793464,-117.1560493
+California Burritos,Surf & Turf,Seafood,"7754 Starling Dr, Linda Vista CA",https://www.yelp.com/biz/california-burritos-san-diego,4,4.5,4.4,7.485,3.5,3.4375,3.75,3.5,3.25,4,4.5,3.375,3.5,4.375,3.5125,32.793464,-117.1560493
+Cancun Mexican & Seafood,Adobada,Carnitas / Pork,"1766 N Coast Hwy, Encinitas CA",http://cancunmexicanandseafood.com/,1,4.5,4.1,7.3,3,3,4.5,3.5,3,3,2,3.5,2.5,4.5,3.5,33.0793683,-117.3076099
+Cancun Mexican & Seafood,California,California,"1766 N Coast Hwy, Encinitas CA",http://cancunmexicanandseafood.com/,2,4.5,4.1,7.77,3.5,3,4.75,3.5,4.5,2.5,3.5,3.75,3.5,4,4.025,33.0793683,-117.3076099
+Cancun Mexican & Seafood,California ,California,"1766 N Coast Hwy, Encinitas CA",http://cancunmexicanandseafood.com/,2,4.5,4.1,8.29,3.5,4.25,4.25,3,3.75,2.75,3.5,3.25,2.75,4,3.5,33.0793683,-117.3076099
+Cancun Mexican & Seafood,Machaca,Carne Asada / Beef,"1766 N Coast Hwy, Encinitas CA",http://cancunmexicanandseafood.com/,1,4.5,4.1,7.65,3,2,4,3,3,4,2,4,2,3,3.5,33.0793683,-117.3076099
+Carmen's Mexican Food,Adobada,Carnitas / Pork,"4937 Diane Ave, Clairemont CA",https://www.yelp.com/biz/carmens-authentic-mexican-food-san-diego,1,4,4.2,9.99,3,4,4.5,3.5,4,3,2,2.5,3.5,4,4,32.8352268,-117.1868331
+Carmen's Mexican Food,Carne asada,Carne Asada / Beef,"4937 Diane Ave, Clairemont CA",https://www.yelp.com/biz/carmens-authentic-mexican-food-san-diego,1,4,4.2,8.25,3.5,4,4.5,3.5,2.5,4.5,4.5,4,3.5,5,4,32.8352268,-117.1868331
+Chili Peppers,Surf & Turf,Seafood,"10425 Tierrasanta Blvd, San Diego CA",(blank),1,,,7.95,2.5,2.5,2.5,4,3.5,3,2.5,3,3,5,3.3,32.8227851,-117.1033798
+Chipotle,Carnitas,Carnitas / Pork,"2505 Palomar airport Rd, Carlsbad CA",https://www.yelp.com/biz/chipotle-mexican-grill-carlsbad,1,3,4.2,8.75,3,4,5,3,5,3,2,4,3,5,4,33.1280739,-117.2704361
+Chipotle,Custom,Specialty,"2505 Palomar airport Rd, Carlsbad CA",https://www.yelp.com/biz/chipotle-mexican-grill-carlsbad,1,3,4.2,7.95,2,4,5,4,4,3,5,3,3,5,4,33.1280739,-117.2704361
+Colima's Mexican Food,Bandido,Specialty,"2302 University Ave, North park CA",https://www.yelp.com/biz/colimas-mexican-food-san-diego,2,4,4.2,7.025,3.25,3,5,3.5,2.75,3.75,2.5,3.375,3.5,4,3.3,32.748619,-117.1398717
+Colima's Mexican Food,Colimas burrito,Specialty,"2302 University Ave, North park CA",https://www.yelp.com/biz/colimas-mexican-food-san-diego,1,4,4.2,6.6,3,3,4.5,4,4.5,4,4.5,4.5,5,4.5,4.5,32.748619,-117.1398717
+Colima's Mexican Food,Hawaiian,Specialty,"2302 University Ave, North park CA",https://www.yelp.com/biz/colimas-mexican-food-san-diego,1,4,4.2,6.6,3,4,5,5,5,5,4,,4.5,5,4.5,32.748619,-117.1398717
+Cortez Mexican Food,California ,California,"5517 Mission Rd, Bonsall CA",https://www.yelp.com/biz/cortez-mexican-food-bonsall,1,4.2,4,6.6,3.5,3.5,3,4,4.5,3,1,3,4,0.5,2.8,33.2909024,-117.2259557
+Cotixan,California,California,"4370 Genessee Ave, Clairemont CA",https://www.yelp.com/biz/cotixan-mexican-and-seafood-san-diego,2,4,4,7.245,3.25,3,2.25,3.75,4,3,1.25,3.75,3.75,4.75,3.7,32.8229419,-117.184444
+Don Carlos Taco Shop,California,California,"737 Pearl St, La Jolla CA",https://www.yelp.com/biz/don-carlos-taco-shop-la-jolla,2,4,4.5,7.07,3,3.75,3.5,3.5,3.5,4,3.25,3.5,3.75,5,3.8,32.8396989,-117.2752812
+Donato's Taco Shop,Al pastor ,Carnitas / Pork,"6780 Miramar Rd, Miramar CA",http://donatostacoshop.net/,1,3.5,4.2,6.25,4,4,4.5,4.5,5,5,5,4.5,5,5,4.6,32.878915,-117.168949
+Donato's Taco Shop,California ,California,"6780 Miramar Rd, Miramar CA",http://donatostacoshop.net/,1,3.5,4.2,6.25,3.5,4,4,4,2.5,3,3.5,4,4,5,4,32.878915,-117.168949
+Donato's Taco Shop,Carne asada,Carne Asada / Beef,"6780 Miramar Rd, Miramar CA",http://donatostacoshop.net/,1,3.5,4.2,6.5,5,4.5,5,5,5,5,4,4,5,5,4.7,32.878915,-117.168949
+El Cuervo,California ,California,"110 Washington St, Hillcrest CA",https://www.yelp.com/biz/el-cuervo-taco-shop-san-diego,1,4,4.3,6.25,2,5,5,5,4,4,2,,5,5,5,32.7500841,-117.1636875
+El Cuervo,Pollo adobado,Chicken,"110 Washington St, Hillcrest CA",https://www.yelp.com/biz/el-cuervo-taco-shop-san-diego,1,4,4.3,6.5,2.5,3,,3.5,4,4,3,,4,1.5,3.5,32.7500841,-117.1636875
+El Dorado Mexican Food,California,California,"29000 Old Town Front St, Temecula CA",https://www.yelp.com/biz/el-dorado-mexican-food-temecula,3,4.5,4,7.05,2.833333333,2.5,3.75,3.166666667,2.666666667,2.833333333,2.833333333,3.166666667,3,3.75,2.833333333,33.4839805,-117.1433185
+El Dorado Mexican Food,Super,Specialty,"29000 Old Town Front St, Temecula CA",https://www.yelp.com/biz/el-dorado-mexican-food-temecula,1,4.5,4,5.95,3.5,2.5,2.5,3.5,4,3,4.5,4,4.5,4.5,3.8,33.4839805,-117.1433185
+El Indio,California,California,"3695 India St, San Diego CA",http://elindiosandiego.com/,1,3.5,3.9,9,2,2.5,2.5,1.5,2.5,1,2,2.5,2,5,1.8,32.7423252,-117.180125
+El Nopalito ,Especial ,Specialty,"582 Santa Fe Dr, Encinitas CA",https://www.yelp.com/biz/el-nopalito-encinitas,1,4,4,8,4,4.5,5,5,5,4.5,5,3,5,5,4.9,33.0367532,-117.2796615
+El Nopalito ,Ranchero steak,Carne Asada / Beef,"582 Santa Fe Dr, Encinitas CA",https://www.yelp.com/biz/el-nopalito-encinitas,1,4,4,6.89,3,3,2.5,3,2.5,2.5,2,3.5,3,4,3,33.0367532,-117.2796615
+El Pollo Loco,Chicken avocado,Chicken,"3500 College Blvd, Oceanside CA",https://www.yelp.com/biz/el-pollo-loco-oceanside-5,1,3.5,4.1,6.39,3,4,3,2.5,3.5,3,3,3.5,4,3.5,3.5,33.1815844,-117.2959464
+El Portal Fresh Mexican Grill,Carnitas,Carnitas / Pork,"4101 Genesee Ave, Clairemont CA",https://www.yelp.com/biz/el-portal-fresh-mexican-grill-san-diego,1,4,4.4,5.99,2,4,2,2.5,4,4,3,3.5,4,5,3.2,32.8175541,-117.1806305
+El Portal Fresh Mexican Grill,Mahi,Seafood,"4101 Genesee Ave, Clairemont CA",https://www.yelp.com/biz/el-portal-fresh-mexican-grill-san-diego,1,4,4.4,6.75,3,4.5,4,3,4,1,3,4.5,3.5,4.5,3.5,32.8175541,-117.1806305
+El Pueblo Mexican Food,California,California,"820 Birmingham Dr, Cardiff  CA",https://www.yelp.com/biz/el-pueblo-authentic-mexican-food-cardiff-by-the-sea,1,4,4.7,7.49,3.5,3.5,4,4,4,3.5,3,4,4.5,3,4.2,33.0269045,-117.2731687
+El Rey Moro,California Surf,California,"4471 Clairemont Mesa Blvd, Clairemont CA",https://www.yelp.com/biz/el-rey-moro-taco-shop-san-diego,1,4,3.8,7.49,4,4,3.5,4,4,4.5,5,4.5,5,4.5,4.5,32.8338051,-117.1955713
+El Rey Moro,Hashbrown,Breakfast,"4471 Clairemont Mesa Blvd, Clairemont CA",https://www.yelp.com/biz/el-rey-moro-taco-shop-san-diego,2,4,3.8,7.49,3.5,3.5,2.5,4.5,4.25,2.25,3.5,4.25,4,2.75,3.85,32.8338051,-117.1955713
+El Torrito Foods,Adobada,Carnitas / Pork,"249 Emerald Dr, Vista CA",https://www.yelp.com/biz/el-torito-foods-vista-2,1,4,4.4,7.89,4,4,2,4,3,4,4,4,3.5,4,3.5,33.191101,-117.2790471
+El Torrito Foods,Asada,Carne Asada / Beef,"249 Emerald Dr, Vista CA",https://www.yelp.com/biz/el-torito-foods-vista-2,1,4,4.4,7.49,1,4,3,4,4.5,5,4.5,3,4.5,4,4,33.191101,-117.2790471
+El Zarape,Azteca,Specialty,"4642 Park Blvd, University Heights CA",https://www.yelp.com/biz/el-zarape-san-diego,1,4,4.4,7,3.5,3,5,3,3.5,3,1.5,3,3,4,3.3,32.7618065,-117.1464549
+El Zarape,California,California,"4642 Park Blvd, University Heights CA",https://www.yelp.com/biz/el-zarape-san-diego,4,4,4.4,7.2,4.375,3.75,3.75,3.625,3.5,3.875,4,3.5,3.75,3.875,3.625,32.7618065,-117.1464549
+El Zarape,California chicken,California,"4642 Park Blvd, University Heights CA",https://www.yelp.com/biz/el-zarape-san-diego,1,4,4.4,6.95,4,3,3.5,2,3.5,3,2.5,2.5,2.5,2,2.9,32.7618065,-117.1464549
+El Zarape,Carne asada supreme,Carne Asada / Beef,"4642 Park Blvd, University Heights CA",https://www.yelp.com/biz/el-zarape-san-diego,1,4,4.4,7.5,4,4,5,4,5,5,4,5,4,4,4,32.7618065,-117.1464549
+El Zarape,Lobster,Seafood,"4642 Park Blvd, University Heights CA",https://www.yelp.com/biz/el-zarape-san-diego,1,4,4.4,8.75,3,3,4,2.7,4.7,3,2.4,2,3.7,4.5,3.7,32.7618065,-117.1464549
+El Zarape,Surf and Turf,Seafood,"4642 Park Blvd, University Heights CA",https://www.yelp.com/biz/el-zarape-san-diego,1,4,4.4,8.75,4,4.5,3.8,3.8,4.5,3.4,1.5,3,3.8,4,3.8,32.7618065,-117.1464549
+Famoso Mexican Street Food,Cali Diablo,Specialty,"815 C St, Downtown CA",https://www.yelp.com/biz/famoso-mexican-street-food-san-diego-20,1,4.5,3.9,6.25,3.5,4,3.5,4,4,5,5,,5,4.5,4.2,32.7166296,-117.1571556
+Filiberto's,Adobada,Carnitas / Pork,"476 S Coast Hwy 101, Encinitas CA",https://www.yelp.com/biz/filibertos-encinitas-2,1,3,3.8,6.6,5,5,4,,5,5,4,,5,3,4.5,33.046304,-117.2941326
+Filiberto's,California,California,"476 S Coast Hwy 101, Encinitas CA",https://www.yelp.com/biz/filibertos-encinitas-2,1,3,3.8,6,2,5,4.5,5,5,5,5,,5,4,5,33.046304,-117.2941326
+Gloria's Taco Shop,Cabeza,Specialty,"1233 28th St, South Park CA",https://www.yelp.com/biz/glorias-taco-shop-san-diego,1,4,4.3,6.99,2.5,3.5,4,3.5,3.5,3,1,4,4,4.5,3.8,32.7186247,-117.1336562
+Gloria's Taco Shop,California ,California,"1233 28th St, South Park CA",https://www.yelp.com/biz/glorias-taco-shop-san-diego,1,4,4.3,7.99,3,4,4,4,3.5,2.5,3.5,4,3.5,2.5,3.7,32.7186247,-117.1336562
+Goody's,Carne asada,Carne Asada / Beef,"Marshall College, La Jolla CA",https://www.yelp.com/biz/goodys-place-and-market-la-jolla,1,3.5,4.1,6.5,5,3,,4,5,4,4,,5,5,5,32.8751747,-117.2358896
+Goody's,Custom,Specialty,"Marshall College, La Jolla CA",https://www.yelp.com/biz/goodys-place-and-market-la-jolla,3,3.5,4.1,6.116666667,3.166666667,3.333333333,3.166666667,2.833333333,3,3.5,3,3,3,3.666666667,3.066666667,32.8751747,-117.2358896
+Graciela's Taco Shop,Adobada ,Carnitas / Pork,"5047 Central Ave, Bonita CA",https://www.yelp.com/biz/gracielas-taco-shop-bonita-2,1,4,4.5,11.75,4,3,,4,5,4,4,5,4,3,4,32.6695006,-117.0215818
+Graciela's Taco Shop,Barbacoa,Carne Asada / Beef,"5047 Central Ave, Bonita CA",https://www.yelp.com/biz/gracielas-taco-shop-bonita-2,1,4,4.5,6.5,4,3,,4,4,5,4,4,5,4,5,32.6695006,-117.0215818
+Humbertos,Pollo california,Chicken,"1015 25th St, San Diego CA",(blank),1,,,6.5,5,4,,4,4,5,4,4,4,5,4,32.5764184,-117.0797718
+Jorge's Mexicatessen,California ,California,"267 N El Camino Real, Encinitas  CA",https://www.yelp.com/biz/jorges-mexicatessen-encinitas,1,4,4.5,8,4,3,,2,3,2,3,2,3,2,2,33.0529981,-117.2601254
+Jorge's Mexicatessen,Chimichanga beef,Carne Asada / Beef,"267 N El Camino Real, Encinitas  CA",https://www.yelp.com/biz/jorges-mexicatessen-encinitas,1,4,4.5,8,3,3,,1,2,2,2,2,2,1,2,33.0529981,-117.2601254
+Jose's Taco,California,California,"3910 Vista Way, Oceanside CA",https://www.yelp.com/biz/joses-taco-oceanside,1,4,3.8,7,3.5,3,,5,3,3,4,4,4,4,4,33.184526,-117.2934667
+Juanita's Taco Shop,Arizona,Specialty,"290 N Coast Hwy 101, Encinitas  CA",https://www.yelp.com/biz/juanitas-taco-shop-encinitas,1,4,4.5,7.14,3.5,4,2,4,5,4,2,4,4.5,5,4.4,33.054223,-117.2969337
+Juanita's Taco Shop,California ,California,"290 N Coast Hwy 101, Encinitas  CA",https://www.yelp.com/biz/juanitas-taco-shop-encinitas,1,4,4.5,,4,5,,5,5,5,4,5,5,5,4.8,33.054223,-117.2969337
+JV's Mexican Food,Carne asada,Carne Asada / Beef,"1112 Morena Blvd, Morena CA",http://jvsmexfood.com/,1,4,4.1,7.14,5,4,2,4.5,4,3.5,2,3,4,4,4.1,32.7686218,-117.2003367
+JV's Mexican Food,Surf & Turf,Seafood,"1112 Morena Blvd, Morena CA",http://jvsmexfood.com/,1,4,4.1,6.02,3.2,4.5,2,3.3,3.4,4.5,4.5,3.8,3.7,5,3.7,32.7686218,-117.2003367
+Karina's Taco Shop ,Bomb,Specialty,"916 N Coast Hwy 101, Encinitas  CA",https://www.yelp.com/biz/karinas-taco-shop-encinitas,1,4,4.2,6.5,2,1.5,4,2,2,4.5,1,1,2,5,1.5,33.0647964,-117.3026313
+Karina's Taco Shop ,California ,California,"916 N Coast Hwy 101, Encinitas  CA",https://www.yelp.com/biz/karinas-taco-shop-encinitas,1,4,4.2,5.4,3,2,3.5,4,2.5,3.5,1.5,1.5,3,5,2.7,33.0647964,-117.3026313
+King Burrito,Adobada,Carnitas / Pork,"3490 Marron Rd, Oceanside CA",https://www.yelp.com/biz/king-burrito-oceanside-2,1,4,3.9,5.99,4,4.5,5,3,4,2,2,2,3.75,4,3.2,33.1788465,-117.2947296
+King Burrito,California,California,"3490 Marron Rd, Oceanside CA",https://www.yelp.com/biz/king-burrito-oceanside-2,1,4,3.9,5.5,3,3.5,4,3.5,3,3.5,3.5,2.5,3,2.5,3,33.1788465,-117.2947296
+Kotija Jr,California,California,"2668 Del Mar Heights Rd, Del Mar CA",https://www.yelp.com/biz/kotija-jr-taco-shop-del-mar,1,4,4.2,6.25,4,1.5,2.5,3,4.5,4,2,2.75,3.75,3,2.6,32.9497632,-117.246375
+Kotija Jr,Steak fajitas,Carne Asada / Beef,"2668 Del Mar Heights Rd, Del Mar CA",https://www.yelp.com/biz/kotija-jr-taco-shop-del-mar,1,4,4.2,8.95,3.5,3,3,4,4,3.5,3.5,2.5,4,0.5,3,32.9497632,-117.246375
+Kotija Jr.,Fish,Seafood,"2668 Del Mar Heights Rd, Del Mar CA",https://www.yelp.com/biz/kotija-jr-taco-shop-del-mar,1,4,4.2,3.5,1,3.5,4.5,,3,,4,3,2.5,4,2.7,32.9497632,-117.246375
+La Morena Taco Shop and Seafood,California,California,"5059 Federal Blvd, Webster CA",https://www.yelp.com/biz/la-morena-taco-shop-san-diego,1,4.5,4.7,11.95,4,3.5,4,4,4.5,2.5,2.5,3,4,2,4.2,32.7211059,-117.0863535
+La Perla Cocina,Addiction,Specialty,"745 Emerald St, Pacific Beach CA",https://www.yelp.com/biz/la-perla-cocina-mexicana-san-diego,1,4.5,4.7,11.95,3,3,4,4,4,3,2.5,4.5,4,1.5,4,32.7981316,-117.2563707
+La Perla Cocina,California,California,"745 Emerald St, Pacific Beach CA",https://www.yelp.com/biz/la-perla-cocina-mexicana-san-diego,1,4.5,4.7,4.87,2,3,4,1.5,2,3,5,3,2.5,5,2.6,32.7981316,-117.2563707
+La Perla Cocina,Oaxacalifornia,California,"745 Emerald St, Pacific Beach CA",https://www.yelp.com/biz/la-perla-cocina-mexicana-san-diego,1,4.5,4.7,7.5,4,3,5,3.5,3.5,4,4,2.5,3,5,3.5,32.7981316,-117.2563707
+Lola's 7 Up Market & Deli,Carne asada,Carne Asada / Beef,"3292 Roosevelt St, Carlsbad CA",https://www.yelp.com/biz/lolas-7-up-market-and-deli-carlsbad,1,4.5,4.9,6.25,4.5,3.5,3,2,2,2.5,3,2,1.5,1,2,33.157106,-117.3449144
+Lola's 7 Up Market & Deli,Shredded beef,Carne Asada / Beef,"3292 Roosevelt St, Carlsbad CA",https://www.yelp.com/biz/lolas-7-up-market-and-deli-carlsbad,1,4.5,4.9,4.87,2.5,3.5,3,2.5,2.4,3.5,4.5,3,3,1.5,2.6,33.157106,-117.3449144
+Lolita's taco shop,2 in 1,Specialty,"7305 Clairemont Mesa Blvd, Kearny Mesa CA",http://lolitasmexicanfood.com/,3,4,4.4,7.625,3.6,4.6,4.666666667,5,4.9,5,5,5,4.9,4.833333333,4.9,32.8316432,-117.1605738
+Lolita's taco shop,Adobado,Carnitas / Pork,"7305 Clairemont Mesa Blvd, Kearny Mesa CA",http://lolitasmexicanfood.com/,1,4,4.4,4.59,4,4,4,5,5,5,5,5,5,4,4.8,32.8316432,-117.1605738
+Lolita's taco shop,Bean and Cheese,Vegetarian,"7305 Clairemont Mesa Blvd, Kearny Mesa CA",http://lolitasmexicanfood.com/,2,4,4.4,7.25,3.75,3,3,3,4,2.5,4,4,3.5,4.5,3.55,32.8316432,-117.1605738
+Lolita's taco shop,California,California,"7305 Clairemont Mesa Blvd, Kearny Mesa CA",http://lolitasmexicanfood.com/,4,4,4.4,5.56,3.125,3.75,3.625,2.5,3.625,1.5,1.875,2.75,2.375,3,2.75,32.8316432,-117.1605738
+Lolita's taco shop,Carne asada,Carne Asada / Beef,"7305 Clairemont Mesa Blvd, Kearny Mesa CA",http://lolitasmexicanfood.com/,1,4,4.4,6,5,4,5,5,5,5,4,5,5,5,5,32.8316432,-117.1605738
+Lolita's taco shop,Mixed,Specialty,"7305 Clairemont Mesa Blvd, Kearny Mesa CA",http://lolitasmexicanfood.com/,1,4,4.4,6,3,4,3.5,4,4,2,4,4,4,3,3.8,32.8316432,-117.1605738
+Lolita's taco shop,Shrimp,Seafood,"7305 Clairemont Mesa Blvd, Kearny Mesa CA",http://lolitasmexicanfood.com/,1,4,4.4,9.43,,4,5,5,5,5,5,5,5,5,5,32.8316432,-117.1605738
+Los Cabos,Al pastor,Carnitas / Pork,"165 S Rancho Santa Fe Rd, San Marcos CA",https://www.yelp.com/biz/los-cabos-san-marcos,1,4,4.1,7.9,3.5,3.5,4.5,4.5,4,1.5,1.5,3,4,5,3.5,33.1467401,-117.1991346
+Los Cabos,California,California,"165 S Rancho Santa Fe Rd, San Marcos CA",https://www.yelp.com/biz/los-cabos-san-marcos,1,4,4.1,6.35,4.5,4,4,2.5,2,3,2,2,2,3,2,33.1467401,-117.1991346
+Los palmitos,California,California,"5145 Clairemont Mesa Blvd, Clairemont CA",https://www.yelp.com/biz/los-palmitos-taco-shop-san-diego,1,4,4.1,8.5,3.5,4,4,4,3.5,4,4,4,4.5,4.5,4.2,32.8340905,-117.1796656
+Los palmitos,Surf & Turf,Seafood,"5145 Clairemont Mesa Blvd, Clairemont CA",https://www.yelp.com/biz/los-palmitos-taco-shop-san-diego,1,4,4.1,6.99,3.5,4,3.5,4,3.5,4,5,2.5,4,4.5,3.9,32.8340905,-117.1796656
+Los Panchos Taco Shop,Bitchin California,California,"409 Washington St, Hillcrest CA",https://www.yelp.com/biz/los-panchos-san-diego-2,1,3,3.4,5.7,3.5,3.5,3,3,4,1.5,4,4,4,4,3.7,32.7496735,-117.1612401
+Los Panchos Taco Shop,California,California,"409 Washington St, Hillcrest CA",https://www.yelp.com/biz/los-panchos-san-diego-2,1,3,3.4,6.99,5,4,4,4,4,2,3,3,4,3,3.5,32.7496735,-117.1612401
+Los Panchos Taco Shop,Tijuana,Specialty,"409 Washington St, Hillcrest CA",https://www.yelp.com/biz/los-panchos-san-diego-2,1,3,3.4,5.25,4,3.5,3,2.8,3.5,4,4,4,3.5,5,3.2,32.7496735,-117.1612401
+Los Primos Mexican Food,619 Burrito Original,Specialty,"7770 Regents Rd, UTC CA",http://www.primosmex.com/,1,3,3.7,7.85,3,3,4.5,4.5,3.5,3.5,3.5,1,4,1,3.5,32.8628023,-117.2245047
+Los Primos Mexican Food,Adobada,Carnitas / Pork,"7770 Regents Rd, UTC CA",http://www.primosmex.com/,1,3,3.7,6.25,3,3.8,1.3,3.5,3.5,4.5,4.5,3.5,4,5,3.9,32.8628023,-117.2245047
+Los Primos Mexican Food,Baja monster,Specialty,"7770 Regents Rd, UTC CA",http://www.primosmex.com/,2,3,3.7,7,2.85,3.4,3.5,3.5,2.5,3,4.75,3,2.75,4.75,3.15,32.8628023,-117.2245047
+Los Primos Mexican Food,California,California,"7770 Regents Rd, UTC CA",http://www.primosmex.com/,2,3,3.7,6.895,4,3.5,4.5,4,3.75,4.1,3.5,3.75,4.25,2.5,4.25,32.8628023,-117.2245047
+Los Primos Mexican Food,California breakfast,California,"7770 Regents Rd, UTC CA",http://www.primosmex.com/,1,3,3.7,6.94,3.75,3.5,3.5,3.5,3.5,4,4,4.5,3.5,4.5,3.8,32.8628023,-117.2245047
+Los Primos Mexican Food,Carne asada,Carne Asada / Beef,"7770 Regents Rd, UTC CA",http://www.primosmex.com/,1,3,3.7,6.25,4.5,4,4,4.5,4,4,3.5,4,4,4.5,4.25,32.8628023,-117.2245047
+Los Primos Mexican Food,Carnitas,Carnitas / Pork,"7770 Regents Rd, UTC CA",http://www.primosmex.com/,1,3,3.7,7,3,3.5,2,3,4,2,4,3,3,4,3,32.8628023,-117.2245047
+Los Primos Mexican Food,Monster California,California,"7770 Regents Rd, UTC CA",http://www.primosmex.com/,2,3,3.7,8.02,3.4,3.75,4.75,3.75,3.25,4.5,4.25,3,3.25,4,3.75,32.8628023,-117.2245047
+Los Primos Mexican Food,Surf & Turf,Seafood,"7770 Regents Rd, UTC CA",http://www.primosmex.com/,1,3,3.7,8.25,4,4,3,4,4,4,5,3,4,5,3.5,32.8628023,-117.2245047
+Los Tacos,California ,California,"2183 Vista Way, Oceanside CA",https://www.yelp.com/biz/los-tacos-oceanside,1,4,4.2,6.25,4,3,2.5,4,4,4,2,2,3,4,4,33.1826321,-117.3409433
+Los Tacos,Fusion,Specialty,"2183 Vista Way, Oceanside CA",https://www.yelp.com/biz/los-tacos-oceanside,2,4,4.2,6.25,4.25,4.25,3.75,4.25,4.25,4.25,4,4.5,4.5,4.5,4.25,33.1826321,-117.3409433
+Los Tacos,Local,Specialty,"2183 Vista Way, Oceanside CA",https://www.yelp.com/biz/los-tacos-oceanside,11,4,4.2,6.25,3.891818182,3.954545455,3.363636364,4.045454545,4,3.931818182,3.909090909,3.5,4,4.090909091,4.094444444,33.1826321,-117.3409433
+Los Tacos 2,Al pastor tradicional ,Carnitas / Pork,"3480 Marron Rd, Oceanside CA",https://www.yelp.com/biz/los-tacos-oceanside-2,1,4.5,5,7,2.5,4,4,2,3,2,3.5,3,3,4.5,2.5,33.1792619,-117.2951199
+Los Tacos 3,Cheese steak,Carne Asada / Beef,"3480 Marron Rd, Oceanside CA",https://www.yelp.com/biz/los-tacos-oceanside-2,1,4.5,5,6.25,2,4,2.5,2.5,3,2,4,3.5,3,4.5,2.6,33.1792619,-117.2951199
+Los Tacos 4,Local,Specialty,"3480 Marron Rd, Oceanside CA",https://www.yelp.com/biz/los-tacos-oceanside-2,2,4.5,5,6.625,3.75,3.5,3.25,2.25,2.25,1.75,3.5,2.75,1.5,4.5,2.1,33.1792619,-117.2951199
+Lourdes,California,California,"2113 San Elijo Ave, Encinitas CA",https://www.yelp.com/biz/lourdes-encinitas-2,1,4,4.7,4.99,4,4.5,4.5,3.5,4,4.5,5,2.5,4.5,5,4.3,33.0208288,-117.2823504
+Lourdes,Carnitas,Carnitas / Pork,"2113 San Elijo Ave, Encinitas CA",https://www.yelp.com/biz/lourdes-encinitas-2,1,4,4.7,6.25,4,4,5,3,3,4,3.5,4,4,5,3.75,33.0208288,-117.2823504
+Lucha Libre North Park,Bean and Cheese,Vegetarian,"3016 University Ave, North Park CA",https://www.yelp.com/biz/lucha-libre-san-diego,1,3.5,4.3,8.25,3.9,2.1,1.9,2.6,2.4,2.9,3.2,4,2.5,3,2.4,32.7486959,-117.1297798
+Lucha Libre North Park,California - Chicken,California,"3016 University Ave, North Park CA",https://www.yelp.com/biz/lucha-libre-san-diego,2,3.5,4.3,8.25,1.5,3.25,2,4.5,3.25,4.5,3.75,3.75,3.25,4.25,3.5,32.7486959,-117.1297798
+Lucha Libre North Park,California - Pork Adobada,California,"3016 University Ave, North Park CA",https://www.yelp.com/biz/lucha-libre-san-diego,3,3.5,4.3,8.25,3.666666667,3.5,2.666666667,3.666666667,3.166666667,3.666666667,3,3.5,3.5,4.333333333,3.466666667,32.7486959,-117.1297798
+Lucha Libre North Park,California - Steak,California,"3016 University Ave, North Park CA",https://www.yelp.com/biz/lucha-libre-san-diego,2,3.5,4.3,8.25,3.75,3.3,2.85,2.6,3.15,3.55,3.5,4,3.4,3.95,2.9,32.7486959,-117.1297798
+Lucha Libre North Park,Holy Moly,Specialty,"3016 University Ave, North Park CA",https://www.yelp.com/biz/lucha-libre-san-diego,5,3.5,4.3,7.24,2.76,4.46,4.1,3.833333333,3.9,4,3.8,3.8,4,4.1,3.83,32.7486959,-117.1297798
+Lucha Libre North Park,Nutty,Specialty,"3016 University Ave, North Park CA",https://www.yelp.com/biz/lucha-libre-san-diego,1,3.5,4.3,7.99,3.5,1.5,4,3,3,1.5,4.5,2.5,3,1.5,3.2,32.7486959,-117.1297798
+Lucha Libre North Park,Surf & Turf,Seafood,"3016 University Ave, North Park CA",https://www.yelp.com/biz/lucha-libre-san-diego,5,3.5,4.3,6.31,3.6,3.2,4.4,3.5,3.5,2.9,2.2,3.2,3.3,4.6,3.36,32.7486959,-117.1297798
+Lucha Libre North Park,Surfin California,California,"3016 University Ave, North Park CA",https://www.yelp.com/biz/lucha-libre-san-diego,7,3.5,4.3,6.381428571,3.5,3.428571429,4.285714286,3.357142857,3.285714286,3.857142857,3.571428571,3.071428571,3.571428571,4.785714286,3.642857143,32.7486959,-117.1297798
+Lucha Libre North Park,Veg Out,Vegetarian,"3016 University Ave, North Park CA",https://www.yelp.com/biz/lucha-libre-san-diego,1,3.5,4.3,8.25,4,3,2.5,3,3,3,3,3.5,3,3,3,32.7486959,-117.1297798
+Lucha Libre North Park,Veggie,Vegetarian,"3016 University Ave, North Park CA",https://www.yelp.com/biz/lucha-libre-san-diego,1,3.5,4.3,8.25,3,5,3,5,4,2,2,5,2,2,2,32.7486959,-117.1297798
+Lupe's Taco Shop,California,California,"7621 Linda Vista Rd, Linda Vista CA",https://www.yelp.com/biz/lupes-taco-shop-san-diego,1,3.5,4.5,7.5,5,3.5,3,2,3,3,2,4,2.5,5,3.5,32.8014966,-117.1571964
+Lupe's Taco Shop,Hot cheetos,Specialty,"7621 Linda Vista Rd, Linda Vista CA",https://www.yelp.com/biz/lupes-taco-shop-san-diego,1,3.5,4.5,3.75,5,4,3,,1,,3,3,2,3,2,32.8014966,-117.1571964
+Lupe's Taco Shop,Spicy a la Diabla,Specialty,"7621 Linda Vista Rd, Linda Vista CA",https://www.yelp.com/biz/lupes-taco-shop-san-diego,1,3.5,4.5,7.5,4,2,3,3,3,4,3,4,3,5,3,32.8014966,-117.1571964
+Lupe's Taco Shop,Surfin California,California,"7621 Linda Vista Rd, Linda Vista CA",https://www.yelp.com/biz/lupes-taco-shop-san-diego,1,3.5,4.5,7.5,2.5,3,3,5,3.5,3,3.5,4.5,4,4.5,3.9,32.8014966,-117.1571964
+Lupe's Taco Shop,TGunz,Specialty,"7621 Linda Vista Rd, Linda Vista CA",https://www.yelp.com/biz/lupes-taco-shop-san-diego,2,3.5,4.5,7.5,3.25,3.75,4.5,4.75,4,4,4,4.5,4.25,4.25,4.375,32.8014966,-117.1571964
+Matador Mexican Food,Carne asada,Carne Asada / Beef,"5201 Linda Vista Rd, Morena CA",https://www.yelp.com/biz/matador-mexican-grill-san-diego-2,1,4.5,4,7.5,3,3.5,5,3.5,4,3,3,4,2.5,5,3,32.7653159,-117.1963665
+Matador Mexican Food,Carnitas,Carnitas / Pork,"5201 Linda Vista Rd, Morena CA",https://www.yelp.com/biz/matador-mexican-grill-san-diego-2,1,4.5,4,7.5,4,3.5,2.5,3,4.5,3,2,5,4.5,3.5,2.5,32.7653159,-117.1963665
+Mi Asador Mexican & Seafood ,California ,California,"4750 Oceanside Blvd, Oceanside CA",https://sites.google.com/site/miasador/,1,4.5,4.4,7.5,5,3.5,2,3.5,3.5,3,4,2,2,4,3.5,33.2165079,-117.2718828
+Mi Asador Mexican & Seafood ,El Hawaiiano ,Specialty,"4750 Oceanside Blvd, Oceanside CA",https://sites.google.com/site/miasador/,1,4.5,4.4,7.5,3,2.5,2.5,3,2,2,1,5,1,5,1.5,33.2165079,-117.2718828
+Mikes Taco Club,California,California,"5060 Newport Ave, Ocean Beach CA",http://www.mikestacoclub.com/menu/,2,4.5,4.9,7.5,4.5,5,3.5,3.5,3,3.5,2.5,3.5,3.5,3.5,3,32.7476247,-117.252021
+Mister Falafel,Chicken Shawarma,Chicken,"4461 Clairemont Mesa Blvd, Clairemont CA",https://www.yelp.com/biz/mister-falafel-san-diego,1,4.5,4.6,7.5,4.5,4,4,3.5,4.5,4,4,5,4.5,4,4,32.8340519,-117.1956122
+Mr. Ruribertos Taco Shop ,California,California,"3202 Mission Blvd, Mission Beach CA",https://www.yelp.com/biz/ruribertos-taco-shop-san-diego,1,3.5,3.7,4.99,3.5,2.5,2.5,4,2.5,1,1,2,4,0,2.5,32.7721947,-117.2514332
+Mr. Ruribertos Taco Shop ,Carne asada,Carne Asada / Beef,"3202 Mission Blvd, Mission Beach CA",https://www.yelp.com/biz/ruribertos-taco-shop-san-diego,1,3.5,3.7,4.99,2.5,2,2.5,3.5,2,3,2.5,2,2.5,2.5,2.4,32.7721947,-117.2514332
+MXN on Washington,Bean and rice grande size,Vegetarian,", Hillcrest CA",(blank),1,,,6.45,3,4,5,3.5,3,3.5,3.5,4,2.5,4,3.5,32.7478638,-117.1647094
+Netos Mexican Food,California ,California,"325 S Rancho Santa Fe Rd, San Marcos CA",https://www.yelp.com/biz/netos-mexican-food-san-marcos,1,4.5,4.1,6.99,4,3,4.5,4,4,3.5,3,4,4,5,4,33.1422262,-117.2013389
+Netos Mexican Food,Carne adobada ,Carnitas / Pork,"325 S Rancho Santa Fe Rd, San Marcos CA",https://www.yelp.com/biz/netos-mexican-food-san-marcos,1,4.5,4.1,5.79,4,3,4.5,4,4,4,5,2.5,3,5,3.6,33.1422262,-117.2013389
+Nico's Taco Shop,California,California,"3860 Valley Centre Dr #404, Carmel Valley CA",http://www.yelp.com/biz/nicos-taco-shop-san-diego,1,3,2.9,5.79,4,4,3,4,2.5,3.5,4,2,2.5,5,3,32.9388172,-117.2318495
+Nico's Taco Shop,Carnitas,Carnitas / Pork,"3860 Valley Centre Dr #404, Carmel Valley CA",http://www.yelp.com/biz/nicos-taco-shop-san-diego,1,3,2.9,7.29,3.7,3.8,4.7,4,3.5,4.5,4,4,4.5,5,4,32.9388172,-117.2318495
+Ortiz's Taco Shop #2,California,California,"1313 Garnet Ave, Pacific Beach CA",https://www.yelp.com/biz/ortizs-taco-shop-san-diego-2,3,4,4.2,6.723333333,3.7,4.166666667,3.833333333,3.5,4,4.4,4.5,4.066666667,3.833333333,4.5,4.066666667,32.7983334,-117.2458182
+Ortiz's Taco Shop #3,California chicken,California,"1313 Garnet Ave, Pacific Beach CA",https://www.yelp.com/biz/ortizs-taco-shop-san-diego-2,1,4,4.2,7.15,4,2.5,2.5,3,2.8,2.5,3.5,,3,3.5,2.75,32.7983334,-117.2458182
+Oscar's Mexican food,California ,California,"225 S Rancho Santa Fe Rd, San Marcos CA",http://www.yelp.com/biz/oscars-mexican-food-san-marcos,1,3.5,3.3,7.9,3.5,4,5,4,4,3,4,3.5,4,4,4.2,33.1452281,-117.2003865
+Oscar's Mexican food,Carne asada,Carne Asada / Beef,"225 S Rancho Santa Fe Rd, San Marcos CA",http://www.yelp.com/biz/oscars-mexican-food-san-marcos,1,3.5,3.3,6.95,3.5,3.5,3.5,3,4,3,3,4.5,3.5,2,3.6,33.1452281,-117.2003865
+Oscar's Mexican food,Carnitas,Carnitas / Pork,"225 S Rancho Santa Fe Rd, San Marcos CA",http://www.yelp.com/biz/oscars-mexican-food-san-marcos,1,3.5,3.3,7.9,3.5,4,3.5,4.5,4.5,3.5,3.5,3.5,4,3,4.3,33.1452281,-117.2003865
+Papa Chito's Mexican Food,California,California,"3951 Governor Dr, University City CA",https://www.yelp.com/biz/papa-chitos-mexican-food-san-diego,2,2.5,3.3,5.72,4,3.25,5,3.75,3.25,3.25,4.25,4,3.5,5,3.55,32.853489,-117.203946
+Pedro's Tacos,California Burrito,California,", Oceanside CA",(blank),1,,,3.99,4.5,3.5,4,3,2.5,2.8,4,2.5,2.5,5,2.6,33.1958696,-117.3794834
+Pokirrito,Mauna Lani,Specialty,"4646 Convoy St, Kearny Mesa CA",https://www.yelp.com/biz/pokirrito-san-diego-2,1,4,4.3,5.99,2.5,3.2,3.8,4.5,2.8,4,2,1.8,3.5,5,4,32.8252617,-117.1558833
+Pokirrito,Pokirrito classic ,Carnitas / Pork,"4646 Convoy St, Kearny Mesa CA",https://www.yelp.com/biz/pokirrito-san-diego-2,1,4,4.3,6.35,4,4,2.5,4,3,4.5,2,2,3,4,3,32.8252617,-117.1558833
+Pollos Maria,California,California,"3055 Harding St, Carlsbad CA",http://pollosmaria.com/,1,4,3.8,7.65,4.5,3.5,4.5,2.5,2.5,1,1.5,3,2.5,3,2.7,33.1612269,-117.3443176
+Pollos Maria,Carne asada,Carne Asada / Beef,"3055 Harding St, Carlsbad CA",http://pollosmaria.com/,1,4,3.8,6.6,3,4,4,5,5,4.5,3,2,4,4,4,33.1612269,-117.3443176
+Pollos Maria,combo chicken,Chicken,"3055 Harding St, Carlsbad CA",http://pollosmaria.com/,2,4,3.8,6.45,3.75,4,4.05,4,4,4.25,4.5,4.5,4.25,4.25,4.225,33.1612269,-117.3443176
+Porkyland ,California,California,"4645 Carmel Mountain Rd, Carmel Valley CA",http://goporkyland.com/,1,4,4.4,6.6,3.2,1.4,3.7,3,3.2,4.8,2.4,3,2.9,3,3,32.9203273,-117.2140079
+Porkyland ,Chicken nopalito,Chicken,"4645 Carmel Mountain Rd, Carmel Valley CA",http://goporkyland.com/,2,4,4.4,7.9,3.5,4,4,3.75,4.25,4.25,3.75,3.25,4,2,4.1,32.9203273,-117.2140079
+Porkyland ,Deborah's special,Specialty,"4645 Carmel Mountain Rd, Carmel Valley CA",http://goporkyland.com/,1,4,4.4,5.99,4,3.5,3.5,2,3,4.5,4.5,3,3,5,3.2,32.9203273,-117.2140079
+"Qdoba Mexican Grill, Seatac Airport",Custom,Specialty,"Airport, Seattle CA",(blank),1,,,6.6,4,4,3.5,3.5,3.5,4,3,3.5,3.5,4.5,3,47.4502499,-122.3088165
+Raul's Mexican food,Carne asada,Carne Asada / Beef,"490 S Coast Hwy 101, Encinitas CA",https://www.yelp.com/biz/rauls-shack-encinitas,1,4,4.2,6.25,4,3.5,4,2.5,3,1.5,2.5,2.5,2.8,5,3.2,33.0461712,-117.2941785
+Raul's Mexican food,Chile verde pork,Carnitas / Pork,"490 S Coast Hwy 101, Encinitas CA",https://www.yelp.com/biz/rauls-shack-encinitas,1,4,4.2,6.1,4,3.5,3.5,2,3.5,4.5,3.5,3,3.5,4,3.3,33.0461712,-117.2941785
+Rigoberto's Taco Shop,Adobada,Carnitas / Pork,"7094 Miramar Rd, Miramar CA",https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2,1,4,4.4,4.95,3,3.5,5,4,4,3.78,5,,4.7,5,4.2,32.8798199,-117.1616766
+Rigoberto's Taco Shop,Al pastor,Carnitas / Pork,"7094 Miramar Rd, Miramar CA",https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2,1,4,4.4,,4.5,3,4,4,4,4,4,4,4,3,4,32.8798199,-117.1616766
+Rigoberto's Taco Shop,Bacon breakfast,Breakfast,"7094 Miramar Rd, Miramar CA",https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2,2,4,4.4,7.245,4,2.5,3.25,3.85,4.15,4,2.6,3.75,4,2.85,4.6,32.8798199,-117.1616766
+Rigoberto's Taco Shop,California,California,"7094 Miramar Rd, Miramar CA",https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2,5,4,4.4,6.44,3.75,3.4,4.1,3.6,2.96,3.84,3.8,3.875,2.7,4.8,3.082,32.8798199,-117.1616766
+Rigoberto's Taco Shop,California ,California,"7094 Miramar Rd, Miramar CA",https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2,3,4,4.4,6.093333333,3.75,2.666666667,4.7,3.5,3.666666667,3.833333333,3.4,2.766666667,4,4.166666667,3.733333333,32.8798199,-117.1616766
+Rigoberto's Taco Shop,Campeon,Carne Asada / Beef,"7094 Miramar Rd, Miramar CA",https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2,2,4,4.4,5.5,3,2.75,4.5,3,3.5,3.75,3.75,2.5,4,4.5,3.25,32.8798199,-117.1616766
+Rigoberto's Taco Shop,Carne asada,Carne Asada / Beef,"7094 Miramar Rd, Miramar CA",https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2,3,4,4.4,5.663333333,3.666666667,3.5,3.833333333,3.333333333,3,3,3.333333333,2.333333333,3,4.833333333,3.266666667,32.8798199,-117.1616766
+Rigoberto's Taco Shop,Carnitas,Carnitas / Pork,"7094 Miramar Rd, Miramar CA",https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2,2,4,4.4,7.22,3,3.9,2.9,4,3.6,3.875,4.5,3.875,3.7,3.9,4.1,32.8798199,-117.1616766
+Rigoberto's Taco Shop,Chile Relleno,Vegetarian,"7094 Miramar Rd, Miramar CA",https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2,2,4,4.4,5.97,2.5,3,3.5,4.25,3.5,4,2.5,3.75,3.5,3.5,3.95,32.8798199,-117.1616766
+Rigoberto's Taco Shop,El Rusio,Specialty,"7094 Miramar Rd, Miramar CA",https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2,1,4,4.4,6.5,3,3,4.5,3.5,1.5,1.5,2,3.2,2,4.5,2.2,32.8798199,-117.1616766
+Rigoberto's Taco Shop,Fish,Seafood,"7094 Miramar Rd, Miramar CA",https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2,1,4,4.4,6.99,3.5,2,5,4.2,3,4.7,5,3.7,4.2,5,4,32.8798199,-117.1616766
+Rigoberto's Taco Shop,Surf & Turf,Seafood,"7094 Miramar Rd, Miramar CA",https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2,1,4,4.4,,3.5,4,5,4.5,4.2,4.7,4.4,4,4.9,5,4.6,32.8798199,-117.1616766
+Rigoberto's Taco Shop La Jolla,California,California,"7345 La Jolla Blvd, La Jolla CA",https://www.yelp.com/biz/rigobertos-la-jolla-2,4,2.5,4,6.6375,3.5125,3.25,4,3.8125,3.25,3.25,3.75,2.75,3.375,3.925,3.6875,32.8372328,-117.2780597
+Roberto's Taco Shop Clairemont,California,California,"3095 Clairemont Dr, Clairemont CA",https://www.yelp.com/biz/robertos-taco-shop-clairemont-san-diego,2,4,4,6.25,3.5,4,4,2,2.75,3.75,3.5,3.5,3.5,4.5,3.5,32.7973995,-117.192783
+Roberto's Taco Shop Clairemont,California + Guac + sour cream,California,"3095 Clairemont Dr, Clairemont CA",https://www.yelp.com/biz/robertos-taco-shop-clairemont-san-diego,1,4,4,10.5,3,2,2.5,3.3,3.5,1.5,4,2.5,2.5,3,3.1,32.7973995,-117.192783
+Roberto's Taco Shop Clairemont,Carne asada,Carne Asada / Beef,"3095 Clairemont Dr, Clairemont CA",https://www.yelp.com/biz/robertos-taco-shop-clairemont-san-diego,1,4,4,6.75,3,4.5,4.7,4.5,3.5,4,4.5,4.5,3.5,5,4.2,32.7973995,-117.192783
+Roberto's Taco Shop Hillcrest,Asada,Carne Asada / Beef,"420 Robinson Ave, Hillcrest CA",https://www.yelp.com/biz/robertos-taco-shop-hillcrest-san-diego,1,4,4.2,7.9,4,5,5,4,5,5,3,4,5,3,5,32.7470511,-117.1678119
+Roberto's Taco Shop Hillcrest,California,California,"420 Robinson Ave, Hillcrest CA",https://www.yelp.com/biz/robertos-taco-shop-hillcrest-san-diego,2,4,4.2,7.445,4.15,4.4,4.5,3.5,4.2,4.5,4,3.65,3.65,4.5,4.25,32.7470511,-117.1678119
+Roberto's Taco Shop Hillcrest,California Surf and Turf,California,"420 Robinson Ave, Hillcrest CA",https://www.yelp.com/biz/robertos-taco-shop-hillcrest-san-diego,1,4,4.2,7.9,4,3,5,5,4,5,4,3,5,2,4.5,32.7470511,-117.1678119
+Roberto's Taco Shop Hillcrest,Golden State,Specialty,"420 Robinson Ave, Hillcrest CA",https://www.yelp.com/biz/robertos-taco-shop-hillcrest-san-diego,1,4,4.2,7.9,3.5,4,3.5,4.7,4,4.5,4.5,4.5,4,3.5,4.7,32.7470511,-117.1678119
+Roberto's Very Mexican Food,Carnitas,Carnitas / Pork,"2206 Carmel Valley Road, Del Mar CA",https://www.yelp.com/biz/robertos-very-mexican-food-del-mar-2,1,3.5,3.9,6.25,3,3.5,5,4,3,4,3,3.5,3.5,3,3.7,32.9342398,-117.2551306
+Roberto's Very Mexican Food,Chicken asada,Chicken,"2206 Carmel Valley Road, Del Mar CA",https://www.yelp.com/biz/robertos-very-mexican-food-del-mar-2,1,3.5,3.9,6.99,4,4.5,4.5,4,4.5,4,4,3.5,4.5,5,4.5,32.9342398,-117.2551306
+Rubios UCSD,Grilled fish salmon,Seafood,"9500 Gilman Dr, UTC CA",https://www.yelp.com/biz/rubios-la-jolla-4,1,3.5,3.4,7,3.5,4,4,3.5,4,4,3.5,4.5,4,3.5,3.7,32.8800604,-117.2340135
+Rubios UCSD,Tilapia one,Seafood,"9500 Gilman Dr, UTC CA",https://www.yelp.com/biz/rubios-la-jolla-4,1,3.5,3.4,7.25,4,4,4,5,4.5,4,3.5,5,4.5,5,4.4,32.8800604,-117.2340135
+Rudy's Taco Shop,Carnitas,Carnitas / Pork,"524 Stevens Ave, Solana Beach CA",http://www.rudystacoshop.com/,1,4,4.3,6.49,3,3.5,4,3,4,3.5,4,3,4,4.5,3.5,32.9903956,-117.2605899
+Rudy's Taco Shop,Chicken,Chicken,"524 Stevens Ave, Solana Beach CA",http://www.rudystacoshop.com/,1,4,4.3,6.99,3.5,3.5,2.5,4,3.5,3,2.5,2.5,4.5,0.5,3.8,32.9903956,-117.2605899
+Saguaro's ,Vegetarian,Vegetarian,"3753 30th St, San Diego CA",(blank),1,,,5.99,3.5,2,3,3.8,2.5,2.5,3,2.5,3,2.6,3.2,32.7464522,-117.1298647
+Senor Grubby's,California,California,"377 Carlsbad Village Dr, Carlsbad CA",eatgrubbys.com,1,4,4.1,5.65,3,4,1.5,2,3,4.2,4,3,2,4.5,2.7,33.1586417,-117.3499185
+Senor Grubby's,Pastor,Carnitas / Pork,"377 Carlsbad Village Dr, Carlsbad CA",eatgrubbys.com,1,4,4.1,5.49,3,4.5,5,2,2,2.5,3.5,3,2.5,3,2,33.1586417,-117.3499185
+Senor Panchos,California,California,"1909 W San Marcos Blvd, San Marcos CA",https://www.yelp.com/biz/senor-panchos-mexican-restaurant-san-marcos,1,4,4.2,7.75,4,4,4.5,2,2,3.5,3.5,2,2,4,3,33.1314939,-117.2095632
+Senor Panchos,Pollo asado,Chicken,"1909 W San Marcos Blvd, San Marcos CA",https://www.yelp.com/biz/senor-panchos-mexican-restaurant-san-marcos,1,4,4.2,7.75,4,3.5,2.5,3,3.3,1.4,2.3,2.2,3.3,4.5,2.9,33.1314939,-117.2095632
+Sotos Mexican Food,California,California,"6904 Miramar Rd, Miramar  CA",https://www.yelp.com/biz/sotos-mexican-food-san-diego,1,4.5,4.6,6.99,3.7,3.6,4,4,3,3.8,4.3,,3.8,2,3.5,32.8791407,-117.1673854
+Sotos Mexican Food,Pastor,Carnitas / Pork,"6904 Miramar Rd, Miramar  CA",https://www.yelp.com/biz/sotos-mexican-food-san-diego,1,4.5,4.6,6.6,,4,4.5,4,3.5,3.5,5,1.5,3.5,4.5,3.7,32.8791407,-117.1673854
+Storehouse Kitchen ,Breakfast,Breakfast,"2236 Avenida De La Playa, La  Jolla CA",(blank),1,,,6.6,,4,2,,4,,4.6,4.2,3.75,5,3.9,32.854021,-117.2546369
+Taco Stand,Al pastor,Carnitas / Pork,"3695 India St, San Diego CA",http://elindiosandiego.com/,4,3.5,3.9,7.41,3.3,4,3.75,4.1,3.75,3.8,3.25,3.75,3.95,4.125,4,32.7423252,-117.180125
+Taco Stand,California,California,"3695 India St, San Diego CA",http://elindiosandiego.com/,7,3.5,3.9,7.013333333,3.685714286,3.242857143,3.75,3.742857143,3.828571429,3.642857143,3.214285714,3.3,3.642857143,4.557142857,3.757142857,32.7423252,-117.180125
+Taco Stand,California,California,"621 Pearl St, La Jolla CA",http://letstaco.com/,1,4.5,4.4,8.5,3.9,3,4.5,4.1,3,3.7,4,4.3,4.2,5,3.9,32.8393518,-117.2768191
+Taco Stand,California,California,"7305 Clairemont Mesa Blvd, Kearny Mesa CA",http://lolitasmexicanfood.com/,2,4,4.4,6.14,3.5,2.75,3.25,3.25,3,3,2.75,2.85,2.6,4.1,3.35,32.8316432,-117.1605738
+Taco Stand,California ,California,"3695 India St, San Diego CA",http://elindiosandiego.com/,4,3.5,3.9,7.0625,3.75,3.875,3.375,3.875,3.875,4,4.125,3.875,3.95,4.45,3.9625,32.7423252,-117.180125
+Taco Stand,Carne asada,Carne Asada / Beef,"3695 India St, San Diego CA",http://elindiosandiego.com/,4,3.5,3.9,7.6175,4,4.125,4,3.875,3.325,3.75,2.075,3.666666667,3.5,3.05,3.4875,32.7423252,-117.180125
+Taco Stand,Shrimp,Seafood,"3695 India St, San Diego CA",http://elindiosandiego.com/,1,3.5,3.9,7.9,2.5,3,4.5,4.3,4,3,3.1,3.9,4.2,3,4.1,32.7423252,-117.180125
+Taco Stand,Surf and turf ,Seafood,"621 Pearl St, La Jolla CA",http://letstaco.com/,1,4.5,4.4,7.9,4,3.5,4,4,3,4,4.5,4,3.8,4.8,3.8,32.8393518,-117.2768191
+Taco Stand Encinitas,California,California,"642 S Coast Hwy 101, Encinitas  CA",https://www.yelp.com/biz/the-taco-stand-encinitas,1,4,4.4,6.5,4,3,3,4,4,4,4,3,4,4,4,33.0440809,-117.293903
+Taco Stand Encinitas,California ,California,"642 S Coast Hwy 101, Encinitas  CA",https://www.yelp.com/biz/the-taco-stand-encinitas,2,4,4.4,5.75,4,4,4,4.25,3.9,4,3.75,3.4,4.15,4.25,4,33.0440809,-117.293903
+Taco Stand Encinitas ,California,California,"642 S Coast Hwy 101, Encinitas  CA",https://www.yelp.com/biz/the-taco-stand-encinitas,1,4,4.4,6.75,4,3,5,5,,,5,,4,5,4.5,33.0440809,-117.293903
+Taco Surf PB,California,California,"4657 Mission Blvd, Pacific Beach CA",https://www.yelp.com/biz/taco-surf-taco-shop-san-diego,2,4,4.6,7.675,3.75,4,4.5,3.9,3.4,3.75,4.25,3.7,3.9,5,3.95,32.7988776,-117.2560148
+Taco Surf PB,Carne asada,Carne Asada / Beef,"4657 Mission Blvd, Pacific Beach CA",https://www.yelp.com/biz/taco-surf-taco-shop-san-diego,1,4,4.6,5.99,4,2,4.5,4.5,3,3.8,4.4,2.5,3.5,3,4,32.7988776,-117.2560148
+Taco Villa,Al pastor,Carnitas / Pork,"9500 Gilman Dr, UTC CA",https://www.yelp.com/biz/taco-villa-san-diego,3,3.5,3.5,8.55,3.433333333,3.833333333,4,3.733333333,3.333333333,2.6,2.433333333,3.333333333,3.566666667,4.1,3.766666667,32.8800604,-117.2340135
+Taco Villa,Bean & cheese,Vegetarian,"9500 Gilman Dr, UTC CA",https://www.yelp.com/biz/taco-villa-san-diego,1,3.5,3.5,6.85,4,3.5,5,3.3,3,5,2,3,3.8,3.5,3.9,32.8800604,-117.2340135
+Taco Villa,Breakfast,Breakfast,"9500 Gilman Dr, UTC CA",https://www.yelp.com/biz/taco-villa-san-diego,1,3.5,3.5,6.25,3,4.5,4.5,3.7,3.5,4,3.5,3,4,4.5,4,32.8800604,-117.2340135
+Taco Villa,California,California,"9500 Gilman Dr, UTC CA",https://www.yelp.com/biz/taco-villa-san-diego,2,3.5,3.5,8.47,4.1,3.25,4.5,3.5,2,2.75,2.75,3,2.6,3.75,2.9,32.8800604,-117.2340135
+Taco Villa,California ,California,"9500 Gilman Dr, UTC CA",https://www.yelp.com/biz/taco-villa-san-diego,1,3.5,3.5,6.25,4.4,4.2,4.5,4,3,5,3.8,2.5,3,5,3.7,32.8800604,-117.2340135
+Taco Villa,Carne asada,Carne Asada / Beef,"9500 Gilman Dr, UTC CA",https://www.yelp.com/biz/taco-villa-san-diego,2,3.5,3.5,7.445,3.75,3,3,3.25,3,3.75,3.25,3.75,3.4,3.15,3.45,32.8800604,-117.2340135
+Taco Villa,Carnitas,Carnitas / Pork,"9500 Gilman Dr, UTC CA",https://www.yelp.com/biz/taco-villa-san-diego,5,3.5,3.5,7.386,3.8,3.7,4.14,3.36,3.34,4,3.9,2.88,3.28,4.7,3.56,32.8800604,-117.2340135
+Taco Villa,Chicken,Chicken,"9500 Gilman Dr, UTC CA",https://www.yelp.com/biz/taco-villa-san-diego,1,3.5,3.5,6.85,4,4,5,4,4,5,3.5,2,3.5,4,4,32.8800604,-117.2340135
+Taco Villa,Chicken and rice,Chicken,"9500 Gilman Dr, UTC CA",https://www.yelp.com/biz/taco-villa-san-diego,1,3.5,3.5,10,4.2,3,4.5,3.5,3.5,2.5,2,3,3.5,4.5,3.5,32.8800604,-117.2340135
+Taco Villa,Pollo asado,Chicken,"9500 Gilman Dr, UTC CA",https://www.yelp.com/biz/taco-villa-san-diego,1,3.5,3.5,7.4,3.3,5,4,4.2,3.5,2.9,3,4,4,4,4,32.8800604,-117.2340135
+Taco Villa,Shrimp with guac,Seafood,"9500 Gilman Dr, UTC CA",https://www.yelp.com/biz/taco-villa-san-diego,1,3.5,3.5,8.99,4,3.5,3,3.5,3.5,4,2,4,4,4,3.4,32.8800604,-117.2340135
+Taco Villa,Tejano,Specialty,"9500 Gilman Dr, UTC CA",https://www.yelp.com/biz/taco-villa-san-diego,1,3.5,3.5,7.75,2.5,4,4,2.6,3.6,4,4,3.6,4,4,2.9,32.8800604,-117.2340135
+Tacos La Bala,Barbacoa ,Carne Asada / Beef,"5800 Bellaire Blvd, Houston CA",tacoslabala.com,1,4.5,4.1,6.9,4.3,3,3,3.5,3.5,3.5,3.5,3.8,4,5,3.7,29.7059219,-95.4842737
+Tacos La Bala,Pastor,Carnitas / Pork,"5800 Bellaire Blvd, Houston CA",tacoslabala.com,1,4.5,4.1,7.89,4,3,,4,4,4.5,4,4.5,4.5,5,4.5,29.7059219,-95.4842737
+Tacos por favor,Al pastor,Carnitas / Pork,"1408 Olympic Blvd, Santa Monica CA",https://www.yelp.com/biz/el-dorado-mexican-food-temecula,1,4,4.1,7.8,2.5,3,2,3.5,3,3,4,3,3.8,4.5,3.5,34.0196959,-118.4802148
+Tacos por favor,Carne asada,Carne Asada / Beef,"1408 Olympic Blvd, Santa Monica CA",https://www.yelp.com/biz/el-dorado-mexican-food-temecula,2,4,4.1,7.055,2.75,2.75,2.75,2.75,3.25,4,3.65,3.6,3.05,3,3.25,34.0196959,-118.4802148
+Tony's Fresh Mexican Food,battered fish ,Seafood,"7122 Miramar Rd, Miramar CA",https://www.yelp.com/biz/tonys-fresh-mexican-food-san-diego,1,3,4.1,6.47,4,1,2,2,2,3,3,1,2,3,2,32.8799813,-117.1605508
+Tony's Fresh Mexican Food,California,California,"7122 Miramar Rd, Miramar CA",https://www.yelp.com/biz/tonys-fresh-mexican-food-san-diego,2,3,4.1,6.455,3.5,3.35,3,3.5,3.5,3,3.65,3.75,3.65,3,3.5,32.8799813,-117.1605508
+Tony's Fresh Mexican Food,Chile verde pork,Carnitas / Pork,"7122 Miramar Rd, Miramar CA",https://www.yelp.com/biz/tonys-fresh-mexican-food-san-diego,1,3,4.1,5.56,4,4,4,4,3,4,2,4,3,3,4,32.8799813,-117.1605508
+Valentines Mexican Food,California,California,"1157 Sixth Ave, Downtown CA",https://www.yelp.com/biz/valentines-mexican-food-san-diego-6,4,4,4,7.5,4.125,3.875,4.375,4.125,3.875,4.375,3.925,3.95,4.15,4.075,4.25,32.7174996,-117.1591189
+Valentines Mexican Food,California ,California,"1157 Sixth Ave, Downtown CA",https://www.yelp.com/biz/valentines-mexican-food-san-diego-6,1,4,4,6.99,3,3,4.5,2,3,2.5,4,2,2,4,2,32.7174996,-117.1591189
+Valentines Mexican Food,California Chipotle,California,"1157 Sixth Ave, Downtown CA",https://www.yelp.com/biz/valentines-mexican-food-san-diego-6,1,4,4,6.99,4,4,,3.5,3.5,3.5,3.5,3.5,3.5,5,3.7,32.7174996,-117.1591189
+Valentines Mexican Food,Carne asada,Carne Asada / Beef,"1157 Sixth Ave, Downtown CA",https://www.yelp.com/biz/valentines-mexican-food-san-diego-6,2,4,4,16.75,3.9,3.9,4.45,3.5,3.9,3.5,3.25,3.75,3.75,4,4.1,32.7174996,-117.1591189
+Valentines Mexican Food,Pork california,Chicken,"1157 Sixth Ave, Downtown CA",https://www.yelp.com/biz/valentines-mexican-food-san-diego-6,1,4,4,8.5,4,4,4,3.75,4,3.5,3.5,4,5,3.5,4,32.7174996,-117.1591189
+Vallarta Express,California,California,"4277 Genesee Ave, Clairemont CA",http://www.vallartaexpress.com/menu/,5,3.5,4,7.596,3.9,3.8,4.2,4.16,4.26,3.94,3.8,4,4.36,3.76,4.31,32.8213737,-117.1826061
+Vallarta Express,Carne asada,Carne Asada / Beef,"4277 Genesee Ave, Clairemont CA",http://www.vallartaexpress.com/menu/,1,3.5,4,6.47,4,3,3,2,2.5,1.5,2.5,2.5,3,5,3.2,32.8213737,-117.1826061
+Vallarta Express,Fish,Seafood,"4277 Genesee Ave, Clairemont CA",http://www.vallartaexpress.com/menu/,1,3.5,4,8.5,3.5,3.5,4,4.5,4,3,4,3.5,4.5,5,4.3,32.8213737,-117.1826061
+Vallarta Express,Mahi,Seafood,"4277 Genesee Ave, Clairemont CA",http://www.vallartaexpress.com/menu/,1,3.5,4,6.99,3.5,4,4,4,4.5,4,3.5,4,4,4,4.3,32.8213737,-117.1826061
+Vallarta Express,Philly ,Specialty,"4277 Genesee Ave, Clairemont CA",http://www.vallartaexpress.com/menu/,1,3.5,4,7.1,3,3.5,5,4,4,4.5,4.75,3.75,4,5,4.2,32.8213737,-117.1826061
+Vallarta Express,Quesa,Vegetarian,"4277 Genesee Ave, Clairemont CA",http://www.vallartaexpress.com/menu/,1,3.5,4,8.94,3.5,2.5,3.5,3.5,3.5,3.5,4,3,3.5,4.5,3.8,32.8213737,-117.1826061
+Vallarta Express,Quesaburro,Vegetarian,"4277 Genesee Ave, Clairemont CA",http://www.vallartaexpress.com/menu/,1,3.5,4,6.99,4,4,5,3.5,3.8,3,2.5,3.3,4,5,3.7,32.8213737,-117.1826061
+Vallarta Express,Surf & Turf,Seafood,"4277 Genesee Ave, Clairemont CA",http://www.vallartaexpress.com/menu/,1,3.5,4,11.5,3.5,2,2,4,3.5,3,4.5,3.5,4,2,3.5,32.8213737,-117.1826061
+Vallarta Express,Surf and Turf,Seafood,"4277 Genesee Ave, Clairemont CA",http://www.vallartaexpress.com/menu/,1,3.5,4,5.99,2,2,2.5,4,3,4,3.5,3,3,5,3.8,32.8213737,-117.1826061
+,,,,,,,,,,,,,,,,,,,,33.791638,-84.389488
